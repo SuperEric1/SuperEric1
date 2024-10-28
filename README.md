@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o SuperEric (Eric)
 
-<!--
-**SuperEric1/SuperEric1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou um desenvolvedor apaixonado por **Minecraft**, especialmente pela criação de minigames e sistemas com command blocks e addons.
 
-Here are some ideas to get you started:
+Estou cursando **Desenvolvimento Web** e possuo um bom conhecimento de inglês, o que me ajuda a compartilhar meu trabalho com a comunidade global de Minecraft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre mim
+
+- 🔭 Atualmente estou trabalhando em: **um servidor de Minecraft, chamado [SUPERZ](site.superz.pro)**
+- 🌱 Atualmente estou aprendendo: **Programação**
+- 💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft
+- 📫 Como me encontrar: [contato.supereric@gmail.com](mailto:contato.supereric@gmail.com)
+- 😄 Pronomes: **Ele/Dele (he/him)**
+
+---
+
+👾 Acompanhe meus projetos e sinta-se à vontade para contribuir!
