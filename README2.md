@@ -33,12 +33,10 @@
 ###
 
 <ul>
-  <li>🔭 Atualmente estou trabalhando em: <strong>um servidor de Minecraft, chamado SUPERZ</strong></li>
+  <li>🔭 Atualmente estou trabalhando em: <strong>um servidor de Minecraft, chamado <a href="https://site.superz.pro" target="_blank">SUPERZ</a></strong></li>
   <li>🌱 Atualmente estou aprendendo: <strong>Programação</strong></li>
-  <li>💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons, criação de minigames e comandos em Minecraft</li>
+  <li>💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft</li>
   <li>📫 Como me encontrar: <a href="mailto:contato.supereric@gmail.com">contato.supereric@gmail.com</a></li>
-  <li>😄 Pronomes: <strong>Ele/Dele (he/him)</strong></li>
-  <li>⚡ Curiosidade: ...</li>
 </ul>
 
 <hr>
