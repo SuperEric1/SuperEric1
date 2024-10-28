@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔥   Minhas Estatísticas :</h3>
+<h3 align="left">🔥  Minhas Estatísticas:</h3>
 
 ###
 
