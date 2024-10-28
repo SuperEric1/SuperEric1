@@ -26,11 +26,22 @@
 
 ###
 
+<hr>
+
 <h2 align="left">👩‍💻  Sobre mim</h2>
 
 ###
 
-<p align="left">- 🔭 Atualmente estou trabalhando em: **um servidor de Minecraft, chamado [SUPERZ](https://site.superz.pro)**<br>- 🌱 Atualmente estou aprendendo: **Programação**<br>- 💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft<br>- 📫 Como me encontrar: [contato.supereric@gmail.com](mailto:contato.supereric@gmail.com)<br>- 😄 Pronomes: **Ele/Dele (he/him)**</p>
+<ul>
+  <li>🔭 Atualmente estou trabalhando em: <strong>um servidor de Minecraft, chamado SUPERZ</strong></li>
+  <li>🌱 Atualmente estou aprendendo: <strong>Programação</strong></li>
+  <li>💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons, criação de minigames e comandos em Minecraft</li>
+  <li>📫 Como me encontrar: <a href="mailto:contato.supereric@gmail.com">contato.supereric@gmail.com</a></li>
+  <li>😄 Pronomes: <strong>Ele/Dele (he/him)</strong></li>
+  <li>⚡ Curiosidade: ...</li>
+</ul>
+
+<hr>
 
 ###
 
