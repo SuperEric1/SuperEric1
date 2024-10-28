@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">💻 Sou um desenvolvedor apaixonado por Minecraft, especialmente pela criação de minigames e sistemas com command blocks e addons.<br><br>Estou cursando Desenvolvimento Web e possuo um bom conhecimento de inglês, o que me ajuda a compartilhar meu trabalho com a comunidade global de Minecraft.</p>
+<p align="left">💻 Sou um desenvolvedor apaixonado por <strong>Minecraft</strong>, especialmente pela criação de minigames e sistemas com command blocks e addons.<br><br>Estou cursando <strong>Desenvolvimento Web</strong> e possuo um bom conhecimento de inglês, o que me ajuda a compartilhar meu trabalho com a comunidade global de Minecraft.</p>
 
 ###
 
@@ -37,13 +37,14 @@
   <li>🌱 Atualmente estou aprendendo: <strong>Programação</strong></li>
   <li>💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft</li>
   <li>📫 Como me encontrar: <a href="mailto:contato.supereric@gmail.com">contato.supereric@gmail.com</a></li>
+  <li>😄 Pronomes: <strong>Ele/Dele (he/him)</strong></li>
 </ul>
 
 <hr>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas Estatísticas :</h3>
 
 ###
 
