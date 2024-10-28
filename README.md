@@ -8,7 +8,7 @@ Estou cursando **Desenvolvimento Web** e possuo um bom conhecimento de inglês, 
 
 ### Sobre mim
 
-- 🔭 Atualmente estou trabalhando em: **um servidor de Minecraft, chamado [SUPERZ](site.superz.pro)**
+- 🔭 Atualmente estou trabalhando em: **um servidor de Minecraft, chamado [SUPERZ](https://site.superz.pro)**
 - 🌱 Atualmente estou aprendendo: **Programação**
 - 💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft
 - 📫 Como me encontrar: [contato.supereric@gmail.com](mailto:contato.supereric@gmail.com)
