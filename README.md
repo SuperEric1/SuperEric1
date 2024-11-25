@@ -33,7 +33,7 @@
 ###
 
 <ul>
-  <li>🔭 Atualmente estou trabalhando em: <strong>um servidor de Minecraft, chamado <a href="https://site.superz.pro" target="_blank">SUPERZ</a></strong></li>
+  <li>🔭 Atualmente estou trabalhando em: <strong>um servidor de Minecraft... <a href="https://dsc.gg/superzmc" target="_blank">Link</a></strong></li>
   <li>🌱 Atualmente estou aprendendo: <strong>Programação</strong></li>
   <li>💬 Pergunte-me sobre: Minecraft, desenvolvimento de addons e comandos de Minecraft</li>
   <li>📫 Como me encontrar: <a href="mailto:contato.supereric@gmail.com">contato.supereric@gmail.com</a></li>
